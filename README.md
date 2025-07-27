@@ -1,6 +1,9 @@
 # Untitled Wes PC Game
 Credits:
-Maps: Wes (Owner)\n
-Models: Wes (Owner)\n
-Movment & Grapple Gun Scripts: Dani (@Danidev on YouTube)\n
+Maps: Wes (Owner)
+<br>
+Models: Wes (Owner)
+<br>
+Movment & Grapple Gun Scripts: Dani (@Danidev on YouTube)
+<br>
 Grid Texture: Unity (ProBuilder)
